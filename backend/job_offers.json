@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Mid Software Developer",
+        "technologies": [
+            "Figma",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SQL",
+            "C#",
+            "JQuery",
+            "Node.js",
+            ".NET",
+            "React.js",
+            "Angular",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "title": "Junior PHP Developer",
+        "technologies": [
+            "MySQL",
+            "Symfony",
+            "JavaScript",
+            "CSS",
+            "PHP"
+        ]
+    },
+    {
+        "title": "Game Developer",
+        "technologies": [
+            "JavaScript",
+            "TypeScript",
+            "REST",
+            "Git"
+        ]
+    }
+]
